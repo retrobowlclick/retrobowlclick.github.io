@@ -21,7 +21,12 @@
   },
   {
     "id": 5,
-    "name": "Blank Lite",
+    "name": "Retrobowl Click",
     "link": "https://retrobowlclick.github.io"
+  },
+  {
+    "id": 6,
+    "name": "Blank Lite",
+    "link": "https://blanklite.github.io"
   }
 ]
