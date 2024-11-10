@@ -6,21 +6,16 @@
   },
   {
     "id": 2,
-    "name": "Classroom 24h",
-    "link": "https://classroom24h.gitlab.io"
+    "name": "Classroom 6x Hub",
+    "link": "classroom6xhub.github.io"
   },
   {
     "id": 3,
-    "name": "Cool Math Play",
-    "link": "https://coolmathplay.github.io"
-  },
-  {
-    "id": 4,
     "name": "Retro Bowl",
     "link": "https://retrobowl.click"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "UBG 11",
     "link": "https://ubg11.github.io"
   }
