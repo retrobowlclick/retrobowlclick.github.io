@@ -23,5 +23,25 @@
     "id": 4,
     "name": "Retro Bowl",
     "link": "https://retrobowl.click"
+  },
+  {
+    "id": 5,
+    "name": "Subway Surfers",
+    "link": "https://subwaysurfers.click"
+  },
+  {
+    "id": 6,
+    "name": "8 Ball Pool Online",
+    "link": "https://8ball.click"
+  },
+  {
+    "id": 7,
+    "name": "Stickman Hook",
+    "link": "https://playstickman.click/"
+  },
+  {
+    "id": 8,
+    "name": "Plants vs Zombies",
+    "link": "https://playpvz.click/"
   }
 ]
